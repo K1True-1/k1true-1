@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" fill="none"><style>text{font-family:'Segoe UI', Arial, 'Microsoft YaHei', sans-serif}.mono{font-family:'Cascadia Code', Consolas, monospace}</style>
+    <defs><clipPath id="scene"><rect x="681" y="35" width="191" height="259" rx="6"/></clipPath></defs>
+    <rect x="1" y="1" width="1198" height="328" rx="16" fill="#101916" stroke="#30453b"/>
+    <text x="43" y="51" class="mono" font-size="13" letter-spacing="2" fill="#a6b4ab">SELECTED PROJECT / 001</text>
+    <text x="40" y="142" font-size="65" font-weight="500" letter-spacing="1" fill="#ecf2ed">片刻<tspan dx="21" font-size="29" font-weight="400" letter-spacing="-1">Pianke</tspan></text>
+    <text x="44" y="194" font-size="22" fill="#ecf2ed">照片、代码与故事的栖息地。</text>
+    <text x="44" y="277" class="mono" font-size="12" letter-spacing="1.5" fill="#a6b4ab">PHOTOGRAPHY / CODE / STORIES</text>
+    <rect x="581" y="73" width="172" height="206" rx="6" fill="#1b2a23" stroke="#30453b"/>
+    <circle cx="599" cy="92" r="3" fill="#b8d9b3"/>
+    <circle cx="611" cy="92" r="3" fill="#30453b"/>
+    <circle cx="623" cy="92" r="3" fill="#30453b"/>
+    <path d="M601 128H647M615 149H667M615 170H657M601 191H637M615 212H671M601 233H627" stroke="#b8d9b3" stroke-opacity=".6" stroke-width="3"/>
+    <rect x="854" y="72" width="201" height="207" rx="6" fill="#1b2a23" stroke="#30453b"/>
+    <path d="M889 112H1027M889 128H1006M889 156H1027M889 172H1027M889 188H1017M889 215H997M889 231H1008" stroke="#a6b4ab" stroke-opacity=".5"/>
+    <path d="M989 72v34l11-8 11 8V72" fill="#293e31"/>
+    <g clip-path="url(#scene)">
+      <rect x="681" y="35" width="191" height="259" fill="#293e31"/>
+      <circle cx="811" cy="97" r="22" fill="#101916"/>
+      <path d="M670 211L735 108 786 186 831 147 890 219V303H670Z" fill="#365240"/>
+      <path d="M673 238L735 176 786 226 839 183 887 246V303H673Z" fill="#1b2a23"/>
+      <path d="M670 262Q760 218 887 259V303H670Z" fill="#ecf2ed" opacity=".2"/>
+      <text x="697" y="278" class="mono" font-size="11" letter-spacing="2" fill="#101916">A QUIET MOMENT</text>
+    </g>
+    <rect x="681" y="35" width="191" height="259" rx="6" stroke="#30453b"/>
+    <circle cx="1129" cy="63" r="24" stroke="#30453b"/>
+    <path d="M1121 71l16-16m-16 0h16v16" stroke="#b8d9b3" stroke-width="1.5"/>
+  </svg>
